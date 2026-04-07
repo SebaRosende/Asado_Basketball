@@ -1,13 +1,26 @@
 
-# 🏀 Asado Basketball | Sistema de Gestión Deportiva
+# 🏀 Asado Basketball | Financial & Sports Management
 
-> La planilla digital del Pre-Maxi. Una aplicación web de alto rendimiento diseñada para centralizar fixtures, resultados y estadísticas en tiempo real.
+> Transparencia total para el Pre-Maxi de Racing. Una plataforma diseñada para centralizar la economía del equipo (compras, aportes y saldos) con el soporte deportivo como valor agregado.
 LINK: https://asadobasketball.club/
 -----
 
-## 📖 Descripción del Proyecto
+📖 Visión del Proyecto
+Asado Basketball resuelve el problema logístico de los equipos amateurs: la gestión de gastos. Mientras que otras apps se enfocan solo en el juego, esta herramienta prioriza la transparencia financiera de los "asados" y cuotas del equipo, utilizando el fixture y los resultados como el contexto deportivo donde ocurren estos gastos.
 
-**Asado Basketball** no es solo una planilla de resultados; es una plataforma centralizada para la categoría **Pre-Maxi de Racing de Olavarría**. El objetivo es eliminar la fragmentación de la información (mensajes de WhatsApp, fotos de planillas de papel) y ofrecer una experiencia de usuario fluida, rápida y segura para jugadores y administradores.
+🌟 Funcionalidades Core (Finanzas)
+Gestión de Gastos Centralizada: Registro detallado de compras (asado, bebida, alquiler de cancha).
+
+Control de Aportes: Seguimiento en tiempo real de quién pagó y quién debe.
+
+Cálculo de Saldos: Algoritmo automático para el balance de la "caja chica" del equipo.
+
+Transparencia Total: Historial de movimientos auditable por cualquier miembro logueado.
+
+🎨 Funcionalidades Secundarias (Decoración)
+Fixture Dinámico: Fechas, sedes y horarios de los partidos de Racing.
+
+Tanteador Live: Actualización de resultados para mantener el engagement del grupo.
 
 ### 🌟 Key Features (Funcionalidades Clave)
 
