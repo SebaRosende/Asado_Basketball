@@ -83,3 +83,8 @@ Tanteador Live: Actualización de resultados para mantener el engagement del gru
   * **Pasión:** Integración de IA y soluciones escalables para el deporte local.
 
 -----
+<img width="294" height="523" alt="image" src="https://github.com/user-attachments/assets/663e2536-ae6e-41c5-9f31-4e0ed73490db" />
+<img width="298" height="525" alt="image" src="https://github.com/user-attachments/assets/4dc1f1f8-7fc6-44c8-8fb4-720e3699e930" />
+<img width="296" height="519" alt="image" src="https://github.com/user-attachments/assets/9e181d9a-06ac-4909-8316-b242be4cdb6a" />
+
+
